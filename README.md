@@ -2,7 +2,7 @@
 #
 **Author:** Bikash Dehury  
 **GitHub:** [bikashdehury919](https://github.com/bikashdehury919)  
-**Email:** bikashd.dehury488@gmail.com
+**Email:** bikash.dehury488@gmail.com
 
 > A collection of powerful C#-based custom modules to extend **Tricentis Tosca**'s automation capabilities.
 
